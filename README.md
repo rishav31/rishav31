@@ -12,7 +12,7 @@
 
 ---
 
-I'm a **Senior Software Engineer** with **8+ years** of full-stack development expertise, specializing in building high-performance, scalable distributed systems. Currently at **Walmart Global Tech** since March 2022, driving reconciliation systems, secure API platforms, and CI/CD automation at enterprise scale.
+I'm a **Senior Software Engineer** with **9+ years** of full-stack development expertise, specializing in building high-performance, scalable distributed systems. Currently at **Walmart Global Tech** since March 2022, driving reconciliation systems, secure API platforms, and CI/CD automation at enterprise scale.
 
 ## 🚀 Core Competencies
 
@@ -148,24 +148,6 @@ I'm a **Senior Software Engineer** with **8+ years** of full-stack development e
 ![Rishav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishav31&show_icons=true&theme=nord&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishav31&layout=compact&theme=nord)
-
-</div>
-
----
-
-## 🚀 Featured Repositories
-
-<div align="center">
-
-### Recent & Popular Projects
-
-[![AwesomeProjectRN](https://github-readme-stats.vercel.app/api/pin/?username=rishav31&repo=AwsomeProjectRN&theme=nord)](https://github.com/rishav31/AwsomeProjectRN)
-[![backend_example_supertoken](https://github-readme-stats.vercel.app/api/pin/?username=rishav31&repo=backend_example_supertoken&theme=nord)](https://github.com/rishav31/backend_example_supertoken)
-
-[![first-react-project](https://github-readme-stats.vercel.app/api/pin/?username=rishav31&repo=first-react-project&theme=nord)](https://github.com/rishav31/first-react-project)
-[![Retrofit-Example](https://github-readme-stats.vercel.app/api/pin/?username=rishav31&repo=Retrofit-Example&theme=nord)](https://github.com/rishav31/Retrofit-Example)
-
-**[→ View All Repositories](https://github.com/rishav31?tab=repositories)**
 
 </div>
 
