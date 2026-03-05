@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**Software Engineer 3** | Full-Stack Developer | Microservices Architect
+**Senior Software Engineer** | Full-Stack Developer | Microservices Architect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishav-raj-jaiswal/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rishav31)
@@ -12,7 +12,7 @@
 
 ---
 
-I'm a **Software Engineer 3** with **8+ years** of full-stack development expertise, specializing in building high-performance, scalable distributed systems. Currently at **Walmart Global Tech** since March 2022, driving reconciliation systems, secure API platforms, and CI/CD automation at enterprise scale.
+I'm a **Senior Software Engineer** with **8+ years** of full-stack development expertise, specializing in building high-performance, scalable distributed systems. Currently at **Walmart Global Tech** since March 2022, driving reconciliation systems, secure API platforms, and CI/CD automation at enterprise scale.
 
 ## 🚀 Core Competencies
 
@@ -148,6 +148,24 @@ I'm a **Software Engineer 3** with **8+ years** of full-stack development expert
 ![Rishav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishav31&show_icons=true&theme=nord&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishav31&layout=compact&theme=nord)
+
+</div>
+
+---
+
+## 🚀 Featured Repositories
+
+<div align="center">
+
+### Recent & Popular Projects
+
+[![AwesomeProjectRN](https://github-readme-stats.vercel.app/api/pin/?username=rishav31&repo=AwsomeProjectRN&theme=nord)](https://github.com/rishav31/AwsomeProjectRN)
+[![backend_example_supertoken](https://github-readme-stats.vercel.app/api/pin/?username=rishav31&repo=backend_example_supertoken&theme=nord)](https://github.com/rishav31/backend_example_supertoken)
+
+[![first-react-project](https://github-readme-stats.vercel.app/api/pin/?username=rishav31&repo=first-react-project&theme=nord)](https://github.com/rishav31/first-react-project)
+[![Retrofit-Example](https://github-readme-stats.vercel.app/api/pin/?username=rishav31&repo=Retrofit-Example&theme=nord)](https://github.com/rishav31/Retrofit-Example)
+
+**[→ View All Repositories](https://github.com/rishav31?tab=repositories)**
 
 </div>
 
